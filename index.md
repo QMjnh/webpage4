@@ -1,12 +1,6 @@
 ---
 title: Home
 layout: home
-
-title: Academics
-layout: Academics
-
-title: Coursework, Projects & Experience
-layout: Coursework, Projects & Experience
 ---
 
 # Le Quang Minh
