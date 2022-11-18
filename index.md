@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-# Le Quang Minh
+# Minh Q. Le
 
 summary of this site's content is in this pdf: [CV_QMinh_06Nov](https://qmjnh.github.io/CV-resume/cv.pdf)
 
